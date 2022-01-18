@@ -7,8 +7,8 @@ Lab instructions: <https://ucsb-cs156.github.io/w22/lab/team01/>
 ```
 |   Name    | GitHub Id |  Service                    | Controller                |
 |-----------|-----------|-----------------------------|---------------------------| 
-|           |           | `LocationQueryService`      | `LocationController`      |   
-|           |           | `PublicHolidayQueryService` | `PublicHolidayController` |   
+|  Phill    | pconrad   | `LocationQueryService`      | `LocationController`      |   
+|  Bryan T  | btk5h     | `PublicHolidayQueryService` | `PublicHolidayController` |   
 |           |           | `RedditQueryService`        | `RedditController`        |   
 |           |           | `TidesQueryService`         | `TidesController`         |   
 |           |           | `UniversityQueryService`    | `UniversityController`    |
